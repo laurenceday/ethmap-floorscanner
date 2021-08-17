@@ -1,12 +1,12 @@
 # ethmap-floorscanner
 
-Script for listing the available EthMap countries, ranked in order of descending price.
+Script for listing the available [EthMap](https://willdn.github.io/ETHMap/#/) countries, ranked in order of descending price.
 
 *Last Update: 17 August 2021*
 
 ## Current Status
 
-Install it, add some config variables. Run it. I ain't updating this further. 
+Clone this, add some config variables. Run it. I ain't updating this further.
 
 ## Prerequisites
 

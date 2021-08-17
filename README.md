@@ -30,3 +30,10 @@ I advise creating a new wallet and using the private key for that so as to not r
 `ts-node get_floor.ts`
 
 That's it. 
+
+## In Action
+
+![image](https://user-images.githubusercontent.com/36096924/129740921-e033f0ff-2399-479c-9cd9-951724544e85.png)
+
+![image](https://user-images.githubusercontent.com/36096924/129740982-18eb87a8-f995-4747-9caf-e7331643ec19.png)
+

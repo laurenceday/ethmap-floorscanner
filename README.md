@@ -1,8 +1,8 @@
 # ethmap-floorscanner
 
-Script for listing the available [EthMap](https://willdn.github.io/ETHMap/#/) countries, ranked in order of descending price.
+Scripts for listing the available [EthMap](https://willdn.github.io/ETHMap/#/) countries and [WeiCards](https://willdn.github.io/weicards/#/), ranked in order of descending price.
 
-*Last Update: 17 August 2021*
+*Last Update: 18 August 2021*
 
 ## Current Status
 
@@ -27,7 +27,8 @@ I advise creating a new wallet and using the private key for that so as to not r
 
 ## Execution
 
-`ts-node get_floor.ts`
+`ts-node get_ethmap_floor.ts` or
+`ts-node get_weicard_floor.ts`
 
 That's it. 
 

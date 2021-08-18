@@ -27,6 +27,8 @@ async function get_floor() {
     
     let country_map = new Map<Number, string>(country_details);
     
+    console.log(country_map);
+    
     let country_rec: object[] = [];
     
     await setup_ethmap();
@@ -45,7 +47,7 @@ async function get_floor() {
         }
         else {
             console.log("%s is selling for %d ETH", zone_name, price);
-        country_rec.push(zone_record);
+            country_rec.push(zone_record);
         }
     }
     

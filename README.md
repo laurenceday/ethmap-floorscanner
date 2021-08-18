@@ -1,4 +1,4 @@
-# ethmap-floorscanner
+# ethmap-floorscanner (and weicards too i guess)
 
 Scripts for listing the available [EthMap](https://willdn.github.io/ETHMap/#/) countries and [WeiCards](https://willdn.github.io/weicards/#/), ranked in order of descending price.
 
